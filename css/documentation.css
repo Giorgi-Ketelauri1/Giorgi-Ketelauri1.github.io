@@ -12,7 +12,7 @@
     display: flex;
     padding-bottom: 100px;
   }
-  h1{
+  .illogo{
    background-image: url(../img/Iliaunilogo.png);
    width: 100px;
    height: 100px;
@@ -44,7 +44,17 @@
     text-decoration: none;
   }
   /*header */
+
+
+
+
+
+
+
+
 /* main */
+
+
 .sections{
   display: flex;
   width: 80%;
@@ -52,14 +62,40 @@
   gap: 100px;
   padding-bottom: 100px;
 }
-.collumn img{
+.sections img{
   width: 200px;
   height: 200px;
 }
 .sections p{
   padding-top: 60px;
 }
+.header1{
+  text-align: center;
+  width: auto;
+  margin-bottom: 50px;
+}
+.block{
+  width: 800px;
+  height: 400px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.blockd{
+  text-align: center;
+  width: auto;
+  margin-top: 70px;
+  margin-bottom: 50px;
+}
+
+
+
+
 /* main */
+
+
+
+
   /* footer */
   footer{
     margin-top: 200px;
